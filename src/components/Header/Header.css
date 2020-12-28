@@ -1,0 +1,21 @@
+
+#app_barr{
+    background-color: rgb(0, 86, 199);
+}
+a{
+    color: white !important;
+}
+#navbar_title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.product_link{
+   padding-right: 10px;
+}
+#app_name{
+    text-align: left;
+    font-weight: bold;
+}
+#app_barr button{
+    font-weight: bold;
+}

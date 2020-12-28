@@ -1,0 +1,27 @@
+.producy__main__div{
+    overflow: hidden;
+}
+
+.Product_images{
+    width: 100%;
+    height: 300px;
+}
+#paper{
+    box-shadow: 1px 1px 6px 0px rgba(50, 50, 50, 0.99)
+}
+.bitton_div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center !important;
+    padding-top: 3px;
+    border-left: 2px solid rgb(28, 26, 26);
+    border-right: 2px solid rgb(28, 26, 26);
+    border-bottom: 2px solid rgb(28, 26, 26);
+   
+}
+.bitton_div>p{
+    font-weight: 200;
+    font-size: 20px !important;
+    padding-top: 10px;
+    
+}
